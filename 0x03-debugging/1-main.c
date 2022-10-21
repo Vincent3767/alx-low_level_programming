@@ -13,7 +13,7 @@ int main(void)
 
 	i = 0;
 	/**
-	 * whilev (i < 10)
+	 * while (i < 10)
 	 *{
 	 *	putchar(i);
 	 *}
